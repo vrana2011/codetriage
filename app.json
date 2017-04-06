@@ -26,13 +26,5 @@
     {
       "url": "heroku/ruby"
     }
-  ],
-  "environments": {
-    "test": {
-      "addons":[
-         "heroku-redis",
-         "heroku-postgresql"
-      ]
-    }
-  }
+  ]
 }
